@@ -77,8 +77,6 @@
                 android:textColor="@color/black"
                 android:textSize="18sp" />
 
-            <!-- Добавьте другие принципы по мере необходимости -->
-
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
