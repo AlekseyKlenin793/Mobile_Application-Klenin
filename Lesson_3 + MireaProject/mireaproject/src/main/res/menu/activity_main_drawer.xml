@@ -40,5 +40,13 @@
             android:id="@+id/nav_audio"
             android:icon="@drawable/ic_info"
             android:title="Audio" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_info"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_file_operations"
+            android:icon="@drawable/ic_info"
+            android:title="File Operations" />
     </group>
 </menu>

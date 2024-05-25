@@ -6,6 +6,10 @@ android {
     namespace = "ru.mirea.kleninaa.mireaproject"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding=true
+    }
+
     defaultConfig {
         applicationId = "ru.mirea.kleninaa.mireaproject"
         minSdk = 26
